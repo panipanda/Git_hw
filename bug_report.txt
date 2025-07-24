@@ -1,0 +1,33 @@
+Bug ID: BUG_001
+Title: Login button unresponsive
+Severity: Critical
+Priority: High
+Issue Origin: Customer Reported
+Bug Type: UI
+
+Description: The login button does not respond when clicked.
+
+Steps:
+  1. Open the login page.
+  2. Click on the login button.
+
+Actual Result: Button remains unresponsive.
+Expected Result: User is logged in and redirected.
+
+Test Environment: Windows 11, Chrome v120, Production
+Area: Authentication
+
+Administrative Information
+Created By: QA Engineer
+Assignee: John Doe
+Creation Date: 2025-02-10
+Last Updated: 2025-02-10
+Status: Open
+Resolution: Unresolved
+Reproducibility: Always
+
+Test Case ID: TC_001
+Requirement ID: REQ_001
+User Story Link: https://example.com/user-story
+Tags: UI, Critical
+
